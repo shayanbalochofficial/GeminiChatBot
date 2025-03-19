@@ -55,7 +55,7 @@ This `Simple Gemini-Powered AI ChatBot` is a sleek, terminal-based conversationa
 - A Google Gemini API key (free tier available at time of writing)
 
 ## File Structure
-- `chatbot.py`: The main script containing the bot logic.
+- `main.py`: The main script containing the bot logic.
 - `.env`: Stores your API key securely (not tracked by Git—add to `.gitignore`).
 
 ## Contributors
