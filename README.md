@@ -39,7 +39,7 @@ This `Simple Gemini-Powered AI ChatBot` is a sleek, terminal-based conversationa
 4. **Run the App**:
    - Execute the following command in your terminal:
      ```bash
-     chainlit run chatbot.py
+     chainlit run main.py
      ```
    - Your browser will open to `http://localhost:8000`, where you can start chatting with the bot.
 
